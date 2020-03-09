@@ -13,7 +13,7 @@ num_dep	NUMBER(2))
 /
 
 insert into empleado values
-(1001, 'ARPI ROMERO ADRIAN', 'PROGRAMADOR', 1003, TO_DATE('16/09/2001','DD/MM/YYYY'), 900, 0, 4);
+(1001, 'ARPI ROMERO ADRIAN', 'PROGRAMADOR', 1003, TO_DATE('16/09/2020','DD/MM/YYYY'), 900, 0, 4);
 insert into empleado values
 (1002, 'BASTIDA MERINO PATRICIA', 'ANALISTA', 1003, TO_DATE('12/09/2001','DD/MM/YYYY'), 1000.5, 0, 2);
 insert into empleado values
